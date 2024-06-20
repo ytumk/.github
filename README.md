@@ -1,1 +1,1 @@
-# .github
+# YTÜ Müzik Kulübü
